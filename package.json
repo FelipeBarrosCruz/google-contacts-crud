@@ -18,10 +18,11 @@
   ],
   "dependencies": {
     "async": "^1.5.2",
+    "bluebird": "^3.5.1",
     "google-auth-library": "^0.10.0",
     "lodash": "^3.10.1",
-    "xmlbuilder": "^4.2.0",
-    "request": "*"
+    "request": "*",
+    "xmlbuilder": "^4.2.0"
   },
   "author": {
     "name": "Ritesh Vishwakarma",
